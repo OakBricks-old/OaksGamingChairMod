@@ -1,0 +1,138 @@
+{
+  "_fv": 15,
+  "_type": "biome",
+  "definition": {
+    "name": "Diamond Field Oak Brickschairmod",
+    "groundBlock": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "airColor": {
+      "value": -1307109407,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -1296679105,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -1292763136,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -1308560654,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -1306556023,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "music.credits"
+    },
+    "additionsSound": {
+      "value": "ambient.basalt_deltas.additions"
+    },
+    "music": {
+      "value": "record.mellohi"
+    },
+    "moodSound": {
+      "value": "ambient.cave"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "END_ROD"
+    },
+    "particlesProbability": 0.4,
+    "biomeCategory": "EXTREME_HILLS",
+    "parent": {
+      "value": "taiga_cold"
+    },
+    "rainingPossibility": 1.0,
+    "temperature": 0.5,
+    "baseHeight": 0.30000000000000004,
+    "heightVariation": 0.5,
+    "biomeType": "WARM",
+    "spawnBiome": true,
+    "biomeWeight": 6,
+    "biomeDictionaryTypes": [
+      "MUSHROOM"
+    ],
+    "grassPerChunk": 6,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 2,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "treeBranch": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "treeVines": {
+      "value": "Blocks.LADDER"
+    },
+    "treeFruits": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "plains",
+    "spawnWoodlandMansion": true,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": true,
+    "spawnIgloo": true,
+    "spawnOceanMonument": true,
+    "spawnShipwreck": true,
+    "oceanRuinType": "WARM",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "ExtraEmeraldOre",
+      "ExtraGoldOre",
+      "MonsterRooms"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAnimal"
+        },
+        "minGroup": 4,
+        "maxGroup": 9,
+        "weight": 20,
+        "spawnType": "ambient"
+      },
+      {
+        "entity": {
+          "value": "EntityWolf"
+        },
+        "minGroup": 14,
+        "maxGroup": 22,
+        "weight": 38,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityAgeable"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 12,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

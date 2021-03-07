@@ -1,0 +1,179 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Chairoakbricksgaming1",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chairoakbricksgaming_1"
+    },
+    {
+      "name": "GamingChair",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gaming_chair"
+    },
+    {
+      "name": "OakChairCommandExecuted",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_chair_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OakChair",
+      "type": "command",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_chair"
+    },
+    {
+      "name": "TestAdv",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_adv"
+    },
+    {
+      "name": "GetChaired",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_chaired"
+    },
+    {
+      "name": "Blueworld",
+      "type": "dimension",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueworld",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "DiamondFieldOakBrickschairmod",
+      "type": "biome",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_field_oak_brickschairmod"
+    },
+    {
+      "name": "GamerIngot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamer_ingot"
+    },
+    {
+      "name": "GamerOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamer_ore"
+    },
+    {
+      "name": "GamerBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamer_block"
+    },
+    {
+      "name": "GamerOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamer_ore_block_recipe"
+    },
+    {
+      "name": "GamerBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamer_block_ore_recipe"
+    },
+    {
+      "name": "GamerOreSmelting",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamer_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.test_adv.descr": "YOU GOT A CHAIR LOL",
+      "advancements.test_adv.title": "Test Advancement",
+      "biome.gaming_chair.diamond_field_oak_brickschairmod": "Diamond Field Oak Brickschairmod",
+      "advancements.get_chaired.title": "Get Chaired",
+      "block.gaming_chair.chairoakbricksgaming_1": "Chairoakbricksgaming 1",
+      "itemGroup.tabgaming_chair": "Gaming Chair",
+      "advancements.get_chaired.descr": "Install this mod :3",
+      "item.gaming_chair.gamer_ingot": "Gamer",
+      "block.gaming_chair.gamer_block": "Block of Gamer",
+      "item.gaming_chair.blueworld": "Blueworld Portal Igniter",
+      "block.gaming_chair.gamer_ore": "Gamer Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gaming_chair",
+    "modName": "Gaming Chair",
+    "version": "1.0.0",
+    "description": "does it look like i know",
+    "author": "OakBricks",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "oakbricks.neocities.org",
+    "modElementsPackage": "org.oakbricks.gamingchair",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

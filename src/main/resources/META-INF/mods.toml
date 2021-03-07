@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="gaming_chair"
+version="1.0.0"
+displayName="Gaming Chair"
+credits="oakbricks.neocities.org"
+displayURL="https://mcreator.net"
+authors="OakBricks"
+description='''
+does it look like i know
+'''
+
+[[dependencies.gaming_chair]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

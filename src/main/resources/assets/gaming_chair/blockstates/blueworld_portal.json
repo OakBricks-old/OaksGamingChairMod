@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "gaming_chair:block/blueworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "gaming_chair:block/blueworld_portal_ns"
+    }
+  }
+}

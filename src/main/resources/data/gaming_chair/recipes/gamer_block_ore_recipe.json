@@ -1,0 +1,13 @@
+{
+  "group": "gaming_chair",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gaming_chair:gamer_block"
+    }
+  ],
+  "result": {
+    "item": "gaming_chair:gamer_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "gaming_chair",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "gaming_chair:gamer_ore"
+  },
+  "result": {
+    "item": "gaming_chair:gamer_ingot"
+  }
+}

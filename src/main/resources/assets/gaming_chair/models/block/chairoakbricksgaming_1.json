@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "gaming_chair:blocks/blockchairllol",
+    "bottom": "gaming_chair:blocks/chiartexttest1",
+    "top": "gaming_chair:blocks/chiartexttest1",
+    "side": "gaming_chair:blocks/chiartexttest1"
+  }
+}

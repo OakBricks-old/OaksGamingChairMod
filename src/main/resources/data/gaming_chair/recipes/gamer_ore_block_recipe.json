@@ -1,0 +1,42 @@
+{
+  "group": "gaming_chair",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "1": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "2": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "3": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "4": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "5": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "6": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "7": {
+      "item": "gaming_chair:gamer_ingot"
+    },
+    "8": {
+      "item": "gaming_chair:gamer_ingot"
+    }
+  },
+  "result": {
+    "item": "gaming_chair:gamer_block",
+    "count": 1
+  }
+}

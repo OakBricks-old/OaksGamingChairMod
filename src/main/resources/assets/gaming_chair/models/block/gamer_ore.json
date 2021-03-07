@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "gaming_chair:blocks/gamer_ore",
+    "particle": "gaming_chair:blocks/gamer_ore"
+  }
+}
